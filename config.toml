@@ -1,4 +1,4 @@
-baseURL = "http://suntrust.netlify.org/"
+baseURL = "https://hugo101.netlify.com/"
 languageCode = "en-us"
-title = "Suntrust"
-theme = "dot-hugo-documentation-theme"
+title = "Hugo 101"
+theme = "hugo-base16-theme"
